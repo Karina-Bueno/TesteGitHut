@@ -2,7 +2,7 @@
 
 Exercicio de fixação GitHub
 
-Criando um novo repositório com um arquivo .txt.
+Criando um novo repositório com um arquivo .txt.\n
 Criando uma nova branch e subindo o arquivo .txt atualizado.
 
 
@@ -43,6 +43,6 @@ Se o repositório já existe é mais fácil usar o git clone:
 
 Pronto. Faça as alterações necessárias. Para subir os arquivos você precisa fazer o seguinte:
 
-> git add *
+> git add .
 > git commit -m 'Sua mensagem de commit'
 > git push -u origin master
