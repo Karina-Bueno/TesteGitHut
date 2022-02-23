@@ -2,7 +2,7 @@
 
 Exercicio de fixação GitHub
 
-Criando um novo repositório com um arquivo .txt.\n
+Criando um novo repositório com um arquivo .txt. -r
 Criando uma nova branch e subindo o arquivo .txt atualizado.
 
 
